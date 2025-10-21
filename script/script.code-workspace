@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "script",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../assets"
+		},
+		{
+			"name": "components",
+			"path": "../components"
+		},
+		{
+			"name": "pages",
+			"path": "../pages"
+		},
+		{
+			"name": "New folder (2)",
+			"path": "../../../../Documents/New folder (2)"
+		}
+	],
+	"settings": {}
+}
